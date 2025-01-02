@@ -4,6 +4,9 @@ const db = new Database('newsbot.db');
 
 //It may look like the command is broken but it works
 
+//Set ip and rest should be in a folder called commands but github doesnt let me
+
+
 const resetCommand = {
     data: new SlashCommandBuilder()
         .setName('reset')

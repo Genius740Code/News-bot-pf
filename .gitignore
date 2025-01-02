@@ -1,0 +1,4 @@
+node_modules/
+.env
+posted_articles.json
+news_monitor.log 
